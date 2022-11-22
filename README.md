@@ -1,0 +1,2 @@
+# Custom_Interface_JavaScript_LocalStorage
+ 1. The user completes the form asking for their name and favourite colour. 2. After refreshing the page (and whenever the user visits this page for this site) their name is listed and the background colour of the page is their colour. 3. Copy and paste the appropriate code to the products.js file so that the products page displays the name and colour as well. NOTES:  You do not need to validate your input for this exercise, but put a comment where validation should go.  The web page should never say, “Welcome, null”.
